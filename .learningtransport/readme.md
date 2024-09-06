@@ -1,0 +1,1 @@
+Used as transport for NServiceBus messages
